@@ -1,6 +1,18 @@
 # BAIXADOR-UNIFICADO-M3U# 
 Baixador de Vídeos
+# Versão 1.13.11
 
+## Histórico de Mudanças
+
+### 1.13.11
+- Atualização de versão
+
+### 1.13.10
+- Adicionado botão "Retomar Downloads" para retomar downloads incompletos
+- Reorganização da interface com botões de ação antes das opções de configuração
+- Melhorias no sistema de download com aria2
+- Correção no comportamento de remoção de downloads (agora só remove em caso de conclusão ou cancelamento)
+- 
 ## Versão 1.13.9
 
 ### Novidades
